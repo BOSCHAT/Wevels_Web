@@ -1,5 +1,5 @@
 # Wevels_Web
-Booking hotels and travel deals and car hire deals.
+Booking hotels and travel deals.
 # Color(s)
   Style.css
 
